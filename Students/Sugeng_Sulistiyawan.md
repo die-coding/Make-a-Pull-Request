@@ -18,7 +18,7 @@ I'm a Developer and Owner ([diecoding.com](https://diecoding.com))
 - Yii
 - jQuery and Bootstrap
 
-[Visit my github](https://github.com/die-coding)
+[Visit my github](https://github.com/die-coding).
 
 ## Contact:
-- Whatsapp / Telegram ([+62816658056](tel:+62816658056))
+- Whatsapp / Telegram ([+62816658056](tel:+62816658056)).
